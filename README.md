@@ -1,5 +1,6 @@
-<div align="center">
-  <img src="https://files.oaiusercontent.com/file-EX9bmPtNyidz31J8bGe6WugO?se=2024-03-31T07%3A43%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D14210643-f8e1-4c24-8905-912eac7024ae.webp&sig=RJs0FXtn/12uTy6uLZAJqywUYAZhYSVdL5WHM1TkmYc%3D" />
+<!-- 프로필 헤더 -->
+<div align="center" style="background-color: #000000; padding: 30px; text-align: center;">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=Welcome%20to%20the%20Urban-Jungle&animation=fadeIn&fontColor=000000&fontSize=40" alt="Changuk's Header Image"/>
 </div>
 
 <div align="center">
