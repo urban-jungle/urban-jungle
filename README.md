@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/microsoftword-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/microsoftexcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=37abff" />&nbsp
 </div>
 
 <br>
