@@ -55,8 +55,10 @@
 <br>
 
 <div align="center">
-![Jungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=urban-jungle&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingrohan)](https://solved.ac/kingrohan/)
+  <img src="https://github-readme-stats.vercel.app/api?username=urban-jungle&show_icons=true&theme=radical" alt="Jungmin's GitHub stats" />
+  <a href="https://solved.ac/kingrohan/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingrohan" alt="Solved.ac Profile" />
+  </a>
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
