@@ -54,7 +54,7 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/kingrohan/) 
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
