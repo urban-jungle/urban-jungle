@@ -54,13 +54,7 @@
 
 <br>
 
-<div align="center">
-  <a href="https://solved.ac/profile/kingrohan" style="text-decoration: none;">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingrohan">
-    <img src="http://mazandi.herokuapp.com/api?handle=kingrohan&theme=dark"/>
-  </a>
-  </br></br>
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/) 
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
