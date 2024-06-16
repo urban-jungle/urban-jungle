@@ -54,7 +54,9 @@
 
 <br>
 
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingrohan)](https://solved.ac/kingrohan/) 
+</div>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
