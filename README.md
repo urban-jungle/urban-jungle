@@ -61,11 +61,13 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="ljmtt2000@gmail.com">
-    <img
-      src="https://img.shields.io/badge/ljmtt2000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+  <a href="mailto:ljmtt2000@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    </a>
   <a href="https://www.instagram.com/__1020.0?igsh=MTVma3U3ODdyYjFrYg%3D%3D&utm_source=qr">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/> 
+    </a>
+  <a href="https://ljmtt2000.tistory.com">
+        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory"/>
     </a>
 </div>
