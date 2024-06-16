@@ -55,7 +55,6 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=00BFFF&height=200&section=header&text=👋&nbsp;Welcome&nbsp;to&nbsp;Zunobono's&nbsp;Git&nbsp;👋&fontSize=36"/>
   <a href="https://solved.ac/profile/kingrohan" style="text-decoration: none;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingrohan">
     <img src="http://mazandi.herokuapp.com/api?handle=kingrohan&theme=dark"/>
