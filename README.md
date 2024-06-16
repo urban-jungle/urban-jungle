@@ -53,7 +53,7 @@
 </div>
 
 <br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdwldnd7)](https://solved.ac/thdwldnd7)
+[Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdwldnd7)](https://solved.ac/kingrohan)
 <br/>
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
