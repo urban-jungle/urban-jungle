@@ -54,9 +54,8 @@
 
 <br>
 
-<div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingrohan)](https://solved.ac/kingrohan/) 
-</div>
+![Jungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=urban-jungle&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingrohan)](https://solved.ac/kingrohan/)
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
