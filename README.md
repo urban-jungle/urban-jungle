@@ -67,7 +67,7 @@
   <a href="https://www.instagram.com/__1020.0?igsh=MTVma3U3ODdyYjFrYg%3D%3D&utm_source=qr">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/> 
     </a>
-  <a href="https://ljmtt2000.tistory.com">
-        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory"/>
+  <a href="https://velog.io/@urban-jungle/posts">
+	      <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
     </a>
 </div>
