@@ -2,6 +2,7 @@
 <div align="center" style="background-color: #000000; padding: 30px; text-align: center;">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=Welcome%20to%20the%20Urban-Jungle&animation=fadeIn&fontColor=000000&fontSize=40" alt="Changuk's Header Image"/>
 </div>
+
 <div align="center">
   <h2>✨ My Skills ✨</h2>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white" />&nbsp
