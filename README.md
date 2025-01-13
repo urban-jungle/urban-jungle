@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Verilog-3776AB?style=for-the-badge&logo=&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Xilinx Vivado-F7DF1E.svg?style=for-the-badge&logo=&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/-PyTorch-E34F26?style=for-the-badge&logo=PyTorch&logoColor=white"/>&nbsp
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> &nbsp
 </div>
 
 <br>
