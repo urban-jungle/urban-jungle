@@ -1,7 +1,6 @@
 ### 🙋‍♂️ Hello, I'm JungMin
 <div>
 <a href="https://velog.io/@urban-jungle/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-<a href="https://www.instagram.com/__1020.0?igsh=MTVma3U3ODdyYjFrYg%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:ljmtt2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </div>
 
