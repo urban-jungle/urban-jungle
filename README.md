@@ -49,9 +49,9 @@
 	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" />&nbsp
     </div>
 </div>
-
+<br/>
 <div>
-<h2>📜Certification</h2>
+<h2>Certification</h2>
 ∙ NAVER Cloud Platform Certified Associate <br/>
 ∙ G-TELP(Level 2) - 84%(Mastery) <br/>
 </div>
