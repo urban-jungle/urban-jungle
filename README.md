@@ -1,4 +1,4 @@
-<h2>🙋‍♂️Hello, I'm JungMin</h2>
+<h2>🙋‍♂️Hello, I'm Jungmin</h2>
 <div>
 <a href="https://velog.io/@urban-jungle/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 <a href="mailto:ljmtt2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
