@@ -51,14 +51,15 @@
     </div>
 </div>
 <br/>
+
 <div>
 <h2>Certification</h2>
 ∙ NAVER Cloud Platform Certified Associate <br/>
 ∙ G-TELP(Level 2) - 84%(Mastery) <br/>
 </div>
 <br/>
-<div>
 
+<div>
 <h2>Paper</h2>
 ∙ IEEE 802.11ax 무선랜에서 UORA 의 OCW 제어를 통한 충돌 완화 및 성능 향상 (First Author)<br/>
 ∙ IEEE 802.11ax 무선랜에서 UORA 효율 향상을 위한 적응적 구간 분할 OCW 제어 기법 (Second Author)<br/>
