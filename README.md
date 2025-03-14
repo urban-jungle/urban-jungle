@@ -56,6 +56,7 @@
 <h2>Certification</h2>
 ∙ NAVER Cloud Platform Certified Associate <br/>
 ∙ G-TELP(Level 2) - 84%(Mastery) <br/>
+∙ ADsP(Advanced Data Analytics Semi-Professional) <br/>
 </div>
 <br/>
 
