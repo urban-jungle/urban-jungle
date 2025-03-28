@@ -57,6 +57,7 @@
 ∙ NAVER Cloud Platform Certified Associate <br/>
 ∙ G-TELP(Level 2) - 84%(Mastery) <br/>
 ∙ ADsP(Advanced Data Analytics Semi-Professional) <br/>
+∙ 리눅스마스터 2급 <br/>
 </div>
 <br/>
 
