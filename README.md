@@ -58,6 +58,7 @@
 ∙ G-TELP(Level 2) - 84%(Mastery) <br/>
 ∙ ADsP(Advanced Data Analytics Semi-Professional) <br/>
 ∙ 리눅스마스터 2급 <br/>
+∙ 네트워크관리사 2급 <br/>
 </div>
 <br/>
 
