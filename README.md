@@ -17,8 +17,9 @@
 	<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>&nbsp
-	<img src="https://img.shields.io/badge/Verilog-3776AB?style=for-the-badge&logo=&logoColor=white" />&nbsp
-      <h4>📚Frameworks & Libraries</h4>
+	<img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515"/>&nbsp
+	<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>&nbsp
+      <h4>📚Frameworks, Platforms and Libraries</h4>
 	<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp
@@ -32,18 +33,19 @@
 	<img src="https://img.shields.io/badge/-PyTorch-E34F26?style=for-the-badge&logo=PyTorch&logoColor=white"/>&nbsp
 	<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>&nbsp
 	<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>&nbsp
-      <h4>💻IDEs/Editors</h4>
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
-  	<img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-  	<img src="https://img.shields.io/badge/-codeblocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white" />&nbsp
-	<img src="https://img.shields.io/badge/Xilinx Vivado-F7DF1E.svg?style=for-the-badge&logo=&logoColor=white" />&nbsp
-      <h4>🎛️Operating Systems & Platforms</h4>
+      <h4>🎛️Operating Systems</h4>
 	<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp
+	<img src="https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white" />&nbsp
       <h4>💾Databases</h4>
 	<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> &nbsp
 	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> &nbsp
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/> &nbsp
+      <h4>🥅 Other</h4>
+	<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>&nbsp
+	<img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>&nbsp
+	<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>&nbsp
+	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>&nbsp
       <h4>✍🏻Currently Studying</h4>
 	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp
