@@ -4,7 +4,6 @@
 <a href="mailto:ljmtt2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-
 <br/>
 <div>
     <h2>Tech Stack</h2>
