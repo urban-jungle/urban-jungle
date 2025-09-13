@@ -1,4 +1,4 @@
-<img width="193" height="54" alt="image" src="https://github.com/user-attachments/assets/18f0311a-ebd2-48d5-a5a6-b2bbe6b3d23b" /><h2>🙋‍♂️Hello, I'm Jungmin</h2>
+<h2>🙋‍♂️Hello, I'm Jungmin</h2>
 <div>
 <a href="https://velog.io/@urban-jungle/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 <a href="mailto:ljmtt2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
