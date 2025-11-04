@@ -20,7 +20,6 @@
 <div>
 	<h3>Sharing</h3>
 	<sub>∙ VMware Tech Summit 2025</sub> <br/>
-	<sub>∙ Cloud Operations on AWS</sub> <br/>
 	<sub>∙ AWS Cloud Day for Hyundai Motor Group 2025</sub> <br/>
 	<sub>∙ VMware Cloud Foundation(VCF) 9.0 launching ceremony</sub> <br/>
 </div>
