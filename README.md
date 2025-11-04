@@ -2,6 +2,8 @@
 	<h3>Hello, I'm Jungmin🙋‍♂️</h3>
 </div>
 
+---
+
 <div>
 	<h3>Career</h3>
 	<p> <img width="50" height="16" alt="image" src="https://github.com/user-attachments/assets/dd90e004-510f-451b-9d1c-21a5e87c0205" /> <b>Hyundai Autoever</b> - Server Engineer <i><sub>(2025.07 ~ current)</sub></i>
@@ -13,6 +15,8 @@
  <b>Dongguk University</b> - Bachelor of Science in Information and Communication Engineering <i><sub>(2019.03 ~ 2025.02)</sub></i>
 </div>
 
+<img width="3058" height="4" alt="image" src="https://github.com/user-attachments/assets/a333f93c-7d2c-4117-b508-5d59ed4b8130" />
+
 <div>
 	<h3>Sharing</h3>
 	<sub>∙ VMware Tech Summit 2025</sub> <br/>
@@ -20,6 +24,8 @@
 	<sub>∙ AWS Cloud Day for Hyundai Motor Group 2025</sub> <br/>
 	<sub>∙ VMware Cloud Foundation(VCF) 9.0 launching ceremony</sub> <br/>
 </div>
+<br/>
+<img width="3058" height="4" alt="image" src="https://github.com/user-attachments/assets/a333f93c-7d2c-4117-b508-5d59ed4b8130" />
 
 <div>
 	<h3>Certification</h3>
@@ -31,6 +37,8 @@
 	<img width="347" height="33" alt="image" src="https://github.com/user-attachments/assets/3602bbdb-19a6-48d1-914e-a43558f3f676" /> <br/>
 	<img width="205" height="37" alt="image" src="https://github.com/user-attachments/assets/fb0410f4-c8a3-4e08-8674-c2ae8a930483" /> <br/>
 </div>
+<br/>
+<img width="3058" height="4" alt="image" src="https://github.com/user-attachments/assets/a333f93c-7d2c-4117-b508-5d59ed4b8130" />
 
 <div>
 	<h3>Paper</h3>
