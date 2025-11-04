@@ -21,7 +21,7 @@
 	<h3>Sharing</h3>
 	<sub>∙ VMware Tech Summit 2025</sub> <br/>
 	<sub>∙ AWS Cloud Day for Hyundai Motor Group 2025</sub> <br/>
-	<sub>∙ VMware Cloud Foundation(VCF) 9.0 launching ceremony</sub> <br/>
+	<sub>∙ VMware Cloud Foundation(VCF) 9.0 Launching Ceremony</sub> <br/>
 </div>
 <br/>
 <img width="3058" height="4" alt="image" src="https://github.com/user-attachments/assets/a333f93c-7d2c-4117-b508-5d59ed4b8130" />
