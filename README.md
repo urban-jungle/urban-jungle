@@ -28,6 +28,6 @@
 
 <div>
 	<h3>Paper</h3>
-	<sub>∙ IEEE 802.11ax 무선랜에서 UORA 의 OCW 제어를 통한 충돌 완화 및 성능 향상 (First Author, 한국통신학회)</sub> <br/>
-	<sub>∙ IEEE 802.11ax 무선랜에서 UORA 효율 향상을 위한 적응적 구간 분할 OCW 제어 기법 (Second Author, 한국통신학회)</sub> <br/>
+	<sub>∙ Collision Mitigation and Performance Enhancement of IEEE 802.11ax UORA through OCW Control Strategy (First Author, The Korean Institute of Communications and Information Sciences)</sub> <br/>
+	<sub>∙ Adaptive OCW Range Segmentation Scheme for UORA Efficiency Improvement in IEEE 802.11ax WLANs (Second Author, The Korean Institute of Communications and Information Sciences)</sub> <br/>
 </div>
