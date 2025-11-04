@@ -29,13 +29,7 @@
 
 <div>
 	<h3>Certification</h3>
-	<img width="367" height="33" alt="image" src="https://github.com/user-attachments/assets/c92b7412-8080-4081-8788-663180522b6e" /> <br/>
-	<img width="367" height="33" alt="image" src="https://github.com/user-attachments/assets/a9d137af-2430-46e4-aa07-4dd449938d3e" /> <br/>
-	<img width="369" height="34" alt="image" src="https://github.com/user-attachments/assets/060b89fe-c6a9-4192-9008-847e1c3107b7" /> <br/>
-	<img width="380" height="33" alt="image" src="https://github.com/user-attachments/assets/221f8db2-7883-493d-a975-90785047c83c" /> <br/>
-	<img width="324" height="33" alt="image" src="https://github.com/user-attachments/assets/9fa1be6e-85d9-414c-9a00-67b87a349c41" /> <br/>
-	<img width="347" height="33" alt="image" src="https://github.com/user-attachments/assets/3602bbdb-19a6-48d1-914e-a43558f3f676" /> <br/>
-	<img width="205" height="37" alt="image" src="https://github.com/user-attachments/assets/fb0410f4-c8a3-4e08-8674-c2ae8a930483" /> <br/>
+	<img width="366" height="376" alt="image" src="https://github.com/user-attachments/assets/15f52e86-6feb-4ee6-83cb-764855427f06" />
 </div>
 <br/>
 <img width="3058" height="4" alt="image" src="https://github.com/user-attachments/assets/a333f93c-7d2c-4117-b508-5d59ed4b8130" />
