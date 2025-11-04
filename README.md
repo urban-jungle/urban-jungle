@@ -8,7 +8,7 @@
 	<h3>Career</h3>
 	<p> <img width="50" height="16" alt="image" src="https://github.com/user-attachments/assets/dd90e004-510f-451b-9d1c-21a5e87c0205" /> <b>Hyundai Autoever</b> - Server Engineer <i><sub>(2025.07 ~ current)</sub></i>
 	<p> <img width="41" height="20" alt="image" src="https://github.com/user-attachments/assets/5d1a8708-693b-4a80-a9dc-56ba1903e9f5" /> <img width="37" height="20" alt="image" src="https://github.com/user-attachments/assets/2d03f4aa-4780-443c-909b-2877670096d8" /> <img width="99" height="33" alt="image" src="https://github.com/user-attachments/assets/b8d68eef-d2d6-4a1d-b50b-563d0e9dadf0" />
-<b>4th Cohort of 2025 SW Professional Talent Training Program, CAB TA</b> - An Early Graduate <i><sub>(2025.03 ~ 2025.06)</sub></i>
+<b>4th Cohort of 2025 SW Professional Talent Training Program, CAB TA</b> - Early Graduate <i><sub>(2025.03 ~ 2025.06)</sub></i>
 	<p> <img width="50" height="16" alt="image" src="https://github.com/user-attachments/assets/6af29695-748e-4ceb-bcd5-5cde632e51b1" />
  <b>Wireless Network Lab <sub>(@Dongguk University)</sub></b> - Undergraduate Research Student (Professor: Eun-Chan Park) <i><sub>(2023.11 ~ 2025.02)</sub></i>
 	<p> <img width="50" height="16" alt="image" src="https://github.com/user-attachments/assets/6af29695-748e-4ceb-bcd5-5cde632e51b1" />
