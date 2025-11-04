@@ -28,6 +28,6 @@
 
 <div>
 	<h3>Paper</h3>
-	<sub>∙ Collision Mitigation and Performance Enhancement of IEEE 802.11ax UORA through OCW Control Strategy (First Author, The Korean Institute of Communications and Information Sciences)</sub> <br/>
-	<sub>∙ Adaptive OCW Range Segmentation Scheme for UORA Efficiency Improvement in IEEE 802.11ax WLANs (Second Author, The Korean Institute of Communications and Information Sciences)</sub> <br/>
+	<sub>∙ Collision Mitigation and Performance Enhancement of IEEE 802.11ax UORA through OCW Control Strategy (First Author, KICS)</sub> <br/>
+	<sub>∙ Adaptive OCW Range Segmentation Scheme for UORA Efficiency Improvement in IEEE 802.11ax WLANs (Second Author, KICS)</sub> <br/>
 </div>
