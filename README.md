@@ -28,7 +28,13 @@
 
 <div>
 	<h3>Certification</h3>
-	<img width="366" height="376" alt="image" src="https://github.com/user-attachments/assets/15f52e86-6feb-4ee6-83cb-764855427f06" />
+	<sub>∙ 정보처리기사</sub> <br/>
+	<sub>∙ 네트워크관리사 2급</sub> <br/>
+	<sub>∙ ADsP(Advanced Data Analytics Semi-Professional)(</sub> <br/>
+	<sub>∙ 리눅스마스터 2급</sub> <br/>
+	<sub>∙ NAVER Cloud Platform Certified Associate</sub> <br/>
+	<sub>∙ 워드프로세서</sub> <br/>
+	<sub>∙ 컴퓨터활용능력 2급</sub> <br/>
 </div>
 <br/>
 <img width="3058" height="4" alt="image" src="https://github.com/user-attachments/assets/a333f93c-7d2c-4117-b508-5d59ed4b8130" />
