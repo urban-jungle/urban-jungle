@@ -29,6 +29,7 @@
 <div>
 	<h3>Certification</h3>
 	<sub>∙ 정보처리기사</sub> <br/>
+	<sub>∙ 정보기기운용기능사</sub> <br/>
 	<sub>∙ 네트워크관리사 2급</sub> <br/>
 	<sub>∙ ADsP(Advanced Data Analytics Semi-Professional)(</sub> <br/>
 	<sub>∙ 리눅스마스터 2급</sub> <br/>
