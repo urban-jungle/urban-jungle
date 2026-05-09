@@ -48,6 +48,7 @@
 
 <div>
 	<h3>Sharing</h3>
+	<sub>∙ AI EXPO KOREA 2026</sub> <br/>
 	<sub>∙ VMware Tech Summit 2025</sub> <br/>
 	<sub>∙ AWS Cloud Day for Hyundai Motor Group 2025</sub> <br/>
 	<sub>∙ VMware Cloud Foundation(VCF) 9.0 Launching Ceremony</sub> <br/>
