@@ -26,7 +26,7 @@
 			<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/클라우드인재양성-0055A4?style=flat-square&logoColor=white">
 			<img height="18" alt="Program" src="https://github.com/user-attachments/assets/b8d68eef-d2d6-4a1d-b50b-563d0e9dadf0">
 		</picture>
-		&nbsp;<b>4th Cohort of 2025 SW Professional Talent Training Program, CAB TA</b> - Early Graduate <i><sub>(2025.03 ~ 2025.06)</sub></i>
+		&nbsp;<b>4th Cohort of 2025 SW Professional Talent Training Program</b> - Early Graduate <i><sub>(2025.03 ~ 2025.06)</sub></i>
 	</p>
 	<p>
 		<picture>
