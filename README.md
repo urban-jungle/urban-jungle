@@ -64,6 +64,7 @@
 	<sub>∙ ADsP (Advanced Data Analytics Semi-Professional)</sub> <br/>
 	<sub>∙ 리눅스마스터 2급</sub> <br/>
 	<sub>∙ NAVER Cloud Platform Certified Associate</sub> <br/>
+	<sub>∙ IoT지식능력검정</sub> <br/>
 	<sub>∙ 워드프로세서</sub> <br/>
 	<sub>∙ 컴퓨터활용능력 2급</sub> <br/>
 </div>
