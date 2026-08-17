@@ -11,7 +11,7 @@
 			<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Hyundai%20AutoEver-003087?style=flat-square&logoColor=white">
 			<img height="18" alt="Hyundai AutoEver" src="https://github.com/user-attachments/assets/dd90e004-510f-451b-9d1c-21a5e87c0205">
 		</picture>
-		&nbsp;<b>Hyundai Autoever</b> - Server Engineer <i><sub>(2025.07 ~ current)</sub></i>
+		&nbsp;<b>Hyundai Autoever</b> - Infrastructure Engineer <i><sub>(2025.07 ~ current)</sub></i>
 	</p>
 	<p>
 		<picture>
